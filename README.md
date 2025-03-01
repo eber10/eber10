@@ -3,6 +3,7 @@
 ## 🔥 Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eber10&show_icons=true&theme=radical)
 ## 🐙 Animación de GitHub Octocat  
-<img src="https://media.giphy.com/media/UCQ5LookOT2ufbsGiT/giphy.gif" width="400">
+![Octocat GIF](https://raw.githubusercontent.com/eber10/eber10/main/octocat.gif)
+
 
 
