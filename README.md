@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola, soy Eber! 👋  
+🚀 Estudiante de Ingeniería en Informática y Sistemas 🧑‍💻
+<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="150">
 
-<!--
-**eber10/eber10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Estadísticas de GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eber10&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## 🐙 Animación de GitHub Octocat  
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🏆 Trofeos en GitHub  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=eber10&theme=dracula)
