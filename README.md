@@ -10,7 +10,13 @@
 
 ![snake gif](https://github.com/eber10/eber10/blob/output/github-contribution-grid-snake.svg)
 
+---
 
+## 🐧 Penguin walking
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKz8tQnW1j1P5O0/giphy.gif" width="200px">
+</p>
 
 
 
