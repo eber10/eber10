@@ -15,7 +15,7 @@
 ## 🐧 Penguin walking
 
 <p align="center">
-  <img src="penguin.png" width="200px">
+  <img src="penguin.png.png" width="200px">
 </p>
 
 
