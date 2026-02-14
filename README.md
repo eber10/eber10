@@ -15,7 +15,7 @@
 ## 🐧 Penguin walking
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKz8tQnW1j1P5O0/giphy.gif" width="200px">
+  <img src="penguin.png" width="200px">
 </p>
 
 
