@@ -4,7 +4,6 @@
 <p align="center">
   <img src="banner.png" width="200px">
 </p>
----
 ## 😺  
 ![Shark Swim](https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif)
 
