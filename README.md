@@ -2,7 +2,7 @@
 🚀 Estudiante de Ingeniería en Informática y Sistemas
 ## 📍
 <p align="center">
-  <img src="banner.png" width="600" height="300">
+  <img src="banner.png" width="600" height="600">
 </p>
 
 ## 🐙  
