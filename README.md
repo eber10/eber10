@@ -2,6 +2,19 @@
 ## 🔴🔴🔴🔴🔴🔴🔴🔴🔴⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪🔴🔴🔴🔴🔴🔴🔴🔴🔴
 ![Shark Swim](https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif)
 
+---
+## 🛠️ Tecnologías en aprendizaje
+<div style="overflow-x: auto; white-space: nowrap; padding: 10px;">
+  <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+</div>
+
+--- 
 ## 🐍 GitHub Contribution Snake
 
 ![snake gif](https://github.com/eber10/eber10/blob/output/github-contribution-grid-snake.svg)
