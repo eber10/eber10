@@ -10,6 +10,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="50"/>
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+  <img src="https://skillicons.dev/icons?i=php" height="50"/>
 </div>
 
 --- 
