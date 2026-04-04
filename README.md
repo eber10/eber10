@@ -20,10 +20,9 @@
   <img src="https://skillicons.dev/icons?i=vue" height="50"/>
   <img src="https://skillicons.dev/icons?i=angular" height="50"/>
   <img src="https://skillicons.dev/icons?i=laravel" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postgre" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="50"/>
   <img src="https://skillicons.dev/icons?i=kotlin" height="50"/>
 </div>
-
 --- 
 
 ![Shark Swim](https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif)
