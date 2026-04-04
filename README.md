@@ -11,6 +11,16 @@
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
   <img src="https://skillicons.dev/icons?i=php" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js" height="50"/>
+  <img src="https://skillicons.dev/icons?i=matlab" height="50"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" height="50"/>
+  <img src="https://skillicons.dev/icons?i=astro" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vue" height="50"/>
+  <img src="https://skillicons.dev/icons?i=angular" height="50"/>
+  <img src="https://skillicons.dev/icons?i=laravel" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postgre" height="50"/>
 </div>
 
 --- 
