@@ -24,9 +24,9 @@
   <img src="https://skillicons.dev/icons?i=kotlin" height="50"/>
 </div>
 --- 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=DAF715&width=435&lines=%F0%9F%8E%88%F0%9F%8E%89Welcome+to+my+tech+world+%F0%9F%8C%8E%E2%9C%A8)](https://git.io/typing-svg)
-
 ![Shark Swim](https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif)
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=DAF715&width=435&lines=%F0%9F%8E%88%F0%9F%8E%89Welcome+to+my+tech+world+%F0%9F%8C%8E%E2%9C%A8)](https://git.io/typing-svg)
 
 ## 🐍 GitHub Contribution Snake
 
