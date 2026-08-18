@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&width=1024&lines=%C2%A1Hi%2C+I'm+Eber!+%F0%9F%91%8B;%F0%9F%9A%80+Estudiante+de+Ingenier%C3%ADa+en+Inform%C3%A1tica+y+Sistemas+%F0%9F%98%8E)](https://git.io/typing-svg)
-## 🔴🔴🔴🔴🔴🔴🔴🔴🔴⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪🔴🔴🔴🔴🔴🔴🔴🔴🔴
+## 🔴🔴🔴🔴🔴🔴⚪⚪⚪⚪⚪⚪🔴🔴🔴🔴🔴🔴
 ---
 ## 🛠️ Frameworks & Technologies (Learning & Exploring)
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px;">
